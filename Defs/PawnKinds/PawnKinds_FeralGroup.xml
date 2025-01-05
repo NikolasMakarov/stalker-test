@@ -6,6 +6,7 @@
     <labelMale>feral zombie</labelMale>
     <labelFemale>feral zombie</labelFemale>
     <race>STLKR_FeralZombie</race>
+    <defaultFactionType>STLKR_FeralFaction</defaultFactionType>
     <alternateGraphicChance>0.833</alternateGraphicChance>
     <alternateGraphics>
       <li>
